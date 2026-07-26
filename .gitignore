@@ -1,0 +1,6 @@
+*.log
+*.tmp
+wezterm/wezterm-gui.exe*
+private.fish
+config.fish.bak
+config.fish.bak
